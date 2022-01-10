@@ -1,9 +1,11 @@
 //
 //  SceneDelegate.swift
 //  Magic8Ball-App
-//
-//  Created by Meet Mali on 29/12/21.
-//
+///////////////////////////////////////////////////
+//  Created by Meet Mali
+//  Follow @meetiosdev
+//  Date: 10/Jan/22
+///////////////////////////////////////////////////
 
 import UIKit
 
